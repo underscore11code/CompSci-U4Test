@@ -3,6 +3,13 @@ package io.github.underscore11code.compsci;
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+* E*** D***
+* April 20
+* Guess
+* Chooses a random animal from a list, and has the user attempt to guess it.
+*/
+
 public class Guess {
   public static final String[] animals = {
           "dog",
