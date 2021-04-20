@@ -25,6 +25,7 @@ public class Guess {
         System.out.println("Incorrect. Try again.");
       }
     }
+    scanner.close();
     System.out.println("You guessed it! Congrats!");
   }
 }
